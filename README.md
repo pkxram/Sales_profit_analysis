@@ -1,2 +1,2 @@
-# Sales_profit_analysis
+# Sales_profit_analysis_details
 Analysis of Sales and profits on different horizons.....
